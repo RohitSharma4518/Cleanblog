@@ -1,0 +1,16 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/tpblog",
+    "prod_uri": "mysql://root:@localhost/tpblog",
+    "fb_url": "https://facebook.com",
+    "tw_url": "https://twitter.com",
+    "gh_url": "https://github.com",
+    "mail_user": "androgon.11@gmail.com",
+    "mail_pass": "Android(11)",
+    "no_of_post": 4,
+    "user_admin": "rohit",
+    "pass_admin": "rohit123"
+  }
+}
